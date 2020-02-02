@@ -51,7 +51,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
      <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/20px-Flag_of_Senegal.svg.png"> Sénégal<br> « Un Peuple - Un But - Une Foi »</td>
     <td>2</td>
-    <td><a href="#">notorious.r.a.c </a> , saxx</td>
+    <td><a href="https://twitter.com/notorious_rac">notorious.r.a.c </a> , saxx</td>
   </tr>
    <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/200px-Flag_of_Madagascar.svg.png" width="20"> Madagascar<br> « Amour, patrie, progrès »</td>
